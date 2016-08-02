@@ -27,6 +27,7 @@ Personal preference.
     * [DDP Monitor](https://chrome.google.com/webstore/detail/ddp-monitor/ippapidnnboiophakmmhkdlchoccbgje)
     * [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
     * [YSlow](http://yslow.org/)
+    * [Event Spy](https://chrome.google.com/webstore/detail/event-spy/jhicediiohboeebfbhllbdhlghmbgbol/related?hl=en)
 
 * Mac Apps
     * [Slack](https://slack.com/downloads)
